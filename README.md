@@ -1,5 +1,5 @@
 # CertKi
-An OpenSource PKI (Public Key Infrastructure) management tool, controlled by a web GUI.
+PKI (Public Key Infrastructure) management tool, controlled by a web GUI.
 
 ### Features
 * Generate CA & CSR.
