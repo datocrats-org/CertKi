@@ -1,13 +1,12 @@
 # CertKi
 PKI (Public Key Infrastructure) management tool, controlled by a web GUI.
 
-### Features
+## Features
 * Generate CA & CSR.
 * Issue & Revoke (Managed CRL).
 * Create alerts & notifications on expiring certs.
 
-### Build
-======
+## Build
 #### Environment Variables
 ##### Optional
 * PORT
