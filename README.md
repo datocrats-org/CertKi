@@ -11,7 +11,7 @@ PKI (Public Key Infrastructure) management tool, controlled by a web GUI.
 * PORT
 
 ##### Required
-* JWT_SECRET_TOKEN
+* JWT_SECRET_KEY
 * MONGO_HOST
 * MONGO_DB
 * MONGO_USER
