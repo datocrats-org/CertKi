@@ -27,7 +27,7 @@ userSchema.methods.comparePassword = function(candidatePassword, cb) {
 };
 
 userSchema.methods.generateToken = function() {
-    return JTW.sign({email: this.email, id: this._id}, process.env.JWT_SECRET_TOKEN, null);
+    return JTW.sign({email: this.email, id: this._id}, process.env.JWT_SECRET_KEY, null);
 }
 
 module.exports = mongoose.model('users', userSchema)
