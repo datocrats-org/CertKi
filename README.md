@@ -7,7 +7,7 @@ PKI (Public Key Infrastructure) management tool, controlled by a web GUI.
 * Create alerts & notifications on expiring certs.
 
 ## Build
-#### Environment Variables
+#### Environment Variables:
 ##### Optional
 * PORT
 
