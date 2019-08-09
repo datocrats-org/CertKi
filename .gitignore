@@ -60,3 +60,5 @@ nodemon.json
 
 # next.js build output
 .next
+
+openssl
